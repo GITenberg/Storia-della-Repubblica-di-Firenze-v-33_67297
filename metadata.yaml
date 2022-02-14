@@ -1,0 +1,27 @@
+_repo: Storia-della-Repubblica-di-Firenze-v-33_67297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Capponi, Gino
+    gutenberg_agent_id: '54201'
+    url: http://www.gutenberg.org/2009/agents/54201
+description: ''
+gutenberg_issued: '2022-02-01'
+identifiers:
+  gutenberg: '67297'
+language: it
+pgterms:marc904: https://archive.org/details/storiadellarepub03cappuoft
+pgterms:marc905: 20120525195601capponi
+pgterms:marc906: '1876'
+pgterms:marc907: it
+production_note: Barbara Magni, Carlo Traverso and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images made available by
+  The Internet Archive)
+publication_note: Italy :Barbèra,1876.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Storia della Repubblica di Firenze v. 3/3
+url: http://www.gutenberg.org/ebooks/67297
